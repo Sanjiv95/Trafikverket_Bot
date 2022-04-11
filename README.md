@@ -1,4 +1,7 @@
 # Trafikverket_Bot
+## Telegram setup
+Look at https://medium.com/analytics-vidhya/how-i-used-a-bot-to-successfully-book-a-vaccination-slot-in-2-days-89e7ce274234
+Update the bot token & chat ID in the script once you have setup your telegram app.
 
 ## First create a python venv and install the following packages
 python3 -m venv <<"venv_name">>
